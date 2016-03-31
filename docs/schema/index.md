@@ -3,7 +3,7 @@ layout: page
 title: Schema Documentation
 ---
 
-####Schema Versions
+#### Schema Versions
 
 Select a schema version to explore from the list below:
 
