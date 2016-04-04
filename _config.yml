@@ -1,4 +1,8 @@
 # Jekyll configuration
+gems:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
 markdown: kramdown
 sass:
   style: compressed
