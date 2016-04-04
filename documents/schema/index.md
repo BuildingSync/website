@@ -5,7 +5,7 @@ title: Schema Documentation
 
 #### Schema Versions
 
-BuildingSync has recently reset the numbering of the schema. The most 
+BuildingSync® has recently reset the numbering of the schema. The most 
 current version of the schema is Version 0.2 and is below as 'Latest'. 
 
 *Note: The previous V2.0 schema has now been termed V2.0-legacy.*

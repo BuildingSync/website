@@ -4,7 +4,7 @@ title: Documents
 ---
 
 The first three documents (Data Dictionary, Geometry Reference Sheet) 
-comprise BuildingSync, and the fourth (Implementation Guide) is a 
+comprise BuildingSync®, and the fourth (Implementation Guide) is a 
 comprehensive guide to using it and implementing it with energy auditing 
 software.
 
@@ -31,9 +31,10 @@ BuildingSync.
 #### [Implementation Guide](BuildingSync%20v1.0-legacy%20Implementation%20Guide.pdf)
 The [Implementation Guide](BuildingSync%20v1.0-legacy%20Implementation%20Guide.pdf) 
 is a comprehensive guide illustrating the process needed to adopt the 
-Building Sync schema. The Guide also provides context for Building Sync 
+BuildingSync schema. The Guide also provides context for BuildingSync 
 and discusses how it has been developed in close coordination with 
 the energy auditing industry.
 
-
+#### [Schema](schema)
+The BuildingSync schema can be used to create and validate XML files.
 

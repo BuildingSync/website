@@ -8,9 +8,9 @@ sass:
   style: compressed
 
 # Site settings
-title: 'BuildingSync®'
-title_html: 'BuildingSync<sup>&reg;</sup>'
-description: 'Standardizing Energy Audit Data Collection.'
+title: 'BuildingSync'
+title_html: 'BuildingSync'
+description: 'Standardizing Energy Audit Data Collection'
 language: 'en-us'
 baseurl: ''
 url: 'http://buildingsync.net/'

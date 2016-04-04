@@ -9,7 +9,7 @@ title: FAQ
 {% endcomment %} 
 
 #### Who else is using the BuildingSync schema?
-The Building Sync effort has involved recruiting several industry 
+The BuildingSync effort has involved recruiting several industry 
 collaborators to review the schema and investigate its incorporation 
 into existing audits tools. See [Collaborators](/about/collaborators) 
 for a list.

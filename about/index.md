@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-BuildingSync<sup>&reg;</sup> is a standardized language for commercial 
+BuildingSync® is a standardized language for commercial 
 building energy audit data that software developers can use to exchange 
 data between audit tools. Taking the form of an 
 [XML schema](https://en.wikipedia.org/wiki/XML_Schema_(W3C)), 
