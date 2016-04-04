@@ -29,6 +29,5 @@ should be updated to the latest version.
 - v0.1
 - v1.0-legacy
 
-
 [xsd-latest]: https://schema.buildingsync.net/latest/develop/BuildingSync.xsd
 [json-latest]: https://schema.buildingsync.net/latest/develop/BuildingSync.json
