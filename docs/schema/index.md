@@ -6,14 +6,16 @@ title: Schema Documentation
 #### Schema Versions
 
 BuildingSync has renumbered the schema. The most current version of the
-schema is Version 0.2. The previous V2.0 schema has been termed V2.0-legacy.
+schema is Version 0.2 and is below as 'Latest'. 
+
+*Note: The previous V2.0 schema has now been termed V2.0-legacy.*
 
 
 - Latest
     - Documentation - Not yet available for latest version. 
     - [Schema](https://schema.buildingsync.net/latest/develop/BuildingSync.xsd)
-<!--- v0.1-->
-    <!--- [Documentation](https://schema.buildingsync.net/v2.0-legacy)-->
+<!--- v0.2-->
+    <!--- [Documentation](https://schema.buildingsync.net/v2.0)-->
     <!--- [Schema](https://schema.buildingsync.org/v2.0/BuildingSync.xsd)-->
 - v2.0-legacy 
     - [Documentation](https://schema.buildingsync.net/v2.0-legacy)
