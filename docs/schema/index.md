@@ -13,7 +13,7 @@ current version of the schema is Version 0.2 and is below as 'Latest'.
 
 - Latest
     - Documentation - Not yet available for latest version. 
-    - Schema [xsd](https://schema.buildingsync.net/latest/develop/BuildingSync.xsd) [json](https://schema.buildingsync.net/latest/develop/BuildingSync.json)
+    - Schema - [xsd][xsd-latest] | [json][json-latest]
 <!--- v0.2-->
     <!--- [Documentation](https://schema.buildingsync.net/v2.0)-->
     <!--- [Schema](https://schema.buildingsync.org/v2.0/BuildingSync.xsd)-->
@@ -28,3 +28,7 @@ should be updated to the latest version.
 
 - v0.1
 - v1.0-legacy
+
+
+[xsd-latest]: https://schema.buildingsync.net/latest/develop/BuildingSync.xsd
+[json-latest]: https://schema.buildingsync.net/latest/develop/BuildingSync.json
