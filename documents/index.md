@@ -17,6 +17,10 @@ can be referenced to help standardize the terminology used in energy
 audits, but it does not provide a structure that allows data to be 
 exchanged across different applications.
 
+#### [Measures](measures)
+The list of [Measures](measures) defined in the BuildingSync Schema 
+contain a TechnologyCategory and a list of valid enumerations. 
+
 #### [Example Files](https://github.com/BuildingSync/schema/tree/develop/examples)
 These [example files](https://github.com/BuildingSync/schema/tree/develop/examples) 
 aid in applying the schema to a particular energy auditing software. 
