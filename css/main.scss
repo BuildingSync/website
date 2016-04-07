@@ -1750,7 +1750,7 @@ $baseurl: '{{ site.baseurl }}/images';
 /* Footer */
 
 	#footer {
-		@include padding(6em, 0);
+		@include padding(6em, 2em);
 		background-color: darken(_palette(bg), 8);
 		text-align: center;
 
