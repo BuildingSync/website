@@ -13,18 +13,20 @@ title: Enumerations
     </thead>
     <tbody>
     {% for member in site.data.enumerations %}
-    <tr>
-        {% if member.name != 'MeasureName' %}
-            {% if member.sub_name == nil %}
-                <td>{{ member.name }}</td>
-            {% else %}
-                <td>{{ member.name }} - {{member.sub_name}}</td>
-            {% endif %}
 
-            <td>{{ member.documentation }}</td>
-            <td>{{ member.enumerations | join: '<br>' }}</td>
+        {% if member.name != 'MeasureName' %}
+            <tr>
+                {% if member.sub_name == nil %}
+                    <td>{{ member.name }}</td>
+                {% else %}
+                    <td>{{ member.name }} - {{member.sub_name}}</td>
+                {% endif %}
+
+                <td>{{ member.documentation }}</td>
+                <td>{{ member.enumerations | join: '<br>' }}</td>
+            </tr>
         {% endif %}
-    </tr>
+
     {% endfor %}
     </tbody>
 </table>
