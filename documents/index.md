@@ -8,13 +8,13 @@ comprise BuildingSync®, and the fourth (Implementation Guide) is a
 comprehensive guide to using it and implementing it with energy auditing 
 software.
 
-#### [Data Dictionary](BuildingSync%20Data%20Dictionary%202.0.xlsx)
-The [data field "dictionary"](BuildingSync%20Data%20Dictionary%202.0.xlsx) 
-is in Excel format, including field names, definitions, units, and other 
-attributes. The data dictionary is aligned with BEDES, but includes only
-the subset of data fields that are relevant for energy audits. This file 
+#### [Data Dictionary](data-dictionary)
+The [data field "dictionary"](data-dictionary) includes field names, 
+definitions, units, and other attributes for the enumerated fields.
+The data dictionary is aligned with BEDES, but includes only
+the subset of data fields that are relevant for energy audits. This page 
 can be referenced to help standardize the terminology used in energy 
-audits, but does it does not provide a structure that allows data to be 
+audits, but it does not provide a structure that allows data to be 
 exchanged across different applications.
 
 #### [Example Files](https://github.com/BuildingSync/schema/tree/develop/examples)
@@ -37,7 +37,5 @@ the energy auditing industry.
 
 #### [Schema](schema)
 The BuildingSync schema can be used to create and validate XML files.
-
-#### [Measures](measures)
 
 

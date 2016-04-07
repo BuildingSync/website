@@ -1865,3 +1865,12 @@ $baseurl: '{{ site.baseurl }}/images';
 		border-radius: 2em;
 		width: 100%;
 	}
+
+
+.dataTables_wrapper .dataTables_filter input {
+	color: black;
+}
+
+#attribute-table {
+    font-size: 80%;
+}
