@@ -22,7 +22,7 @@ title: Measures
                 {% endif %}
 
                 <td>{{ member.documentation }}</td>
-                <td>{{ member.enumerations | join: '<br>' }}</td>
+                <td>{{ member.enumerations_html raw }}</td>
             </tr>
         {% endif %}
     {% endfor %}
