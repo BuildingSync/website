@@ -6,7 +6,7 @@ title: Contact
 
 ## User List
 
-Subscribe to the User List below if you are a consumer of BuildingSync or would like to be kept up to date on general updates to BuildingSync. 
+Subscribe to the User List below if you are a consumer of BuildingSync or would like to be informed on general updates to BuildingSync. 
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -39,7 +39,7 @@ Subscribe to the User List below if you are a consumer of BuildingSync or would 
 
 ## Developer List
 
-Subscribe to the Developer List below if you would like to be informed/involved in detailed discussions about upcoming changes. Also subscribe if you are interested in adopting BuildingSync and need technical support. 
+Subscribe to the Developer List below if you would like to be informed/involved in detailed discussions about upcoming changes to BuildingSync's schema. Also subscribe if you are interested in adopting BuildingSync and need technical support. 
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
