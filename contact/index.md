@@ -18,7 +18,7 @@ Subscribe to the User List below if you are a consumer of BuildingSync or would 
 <div id="mc_embed_signup">
 <form action="//nrel.us15.list-manage.com/subscribe/post?u=9c1731d3ac180fbb32ae3741c&amp;id=f6464c55b9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to the User List</h2>
+	<h2>Subscribe to the User Mailing List</h2>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
@@ -51,7 +51,7 @@ Subscribe to the Developer List below if you would like to be informed/involved 
 <div id="mc_embed_signup">
 <form action="//nrel.us15.list-manage.com/subscribe/post?u=9c1731d3ac180fbb32ae3741c&amp;id=9e8b74c090" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
+	<h2>Subscribe to the Developer Mailing List</h2>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
