@@ -6,6 +6,7 @@ whitelist:
 markdown: kramdown
 sass:
   style: compressed
+exclude: [vendor]
 
 # Site settings
 title: 'BuildingSync'
