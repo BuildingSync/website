@@ -10,7 +10,7 @@ exclude: [vendor]
 
 # Site settings
 title: 'BuildingSync'
-title_html: 'BuildingSync'
+title_html: 'BuildingSync<sup>®</sup>'
 description: 'Standardizing Energy Audit Data Collection'
 language: 'en-us'
 baseurl: ''
