@@ -11,19 +11,19 @@ of BuildingSync is Version 0.3.
 *Note: The previous V2.0 schema has now been termed V2.0-legacy.*
 
 - Latest (contains latest changes that may not yet be released, use with caution)
-    - Documentation - Not yet available for latest version. 
+    - Documentation - Not available until release.
     - [XML Schema][xsd-latest] 
-    - Latest JSON schema not available until release.
+    - JSON Schema (Unsupported) - Not available until release.
 - Version 0.3 - May 31, 2018
-    - Documentation - Not yet available for this version.
+    - [Documentation](documentation/v0.3)
     - [XML Schema][xsd-0.3] 
     - [JSON Schema (Unsupported)][json-0.3]
 - Version 0.2 - May 22, 2016
-    - Documentation - Not available for this version.
+    - [Documentation](documentation/v0.2)
     - [XML Schema][xsd-0.2] 
     - [JSON Schema (Unsupported)][json-0.2]
 - Version 2.0-legacy 
-    - [Documentation](https://schema.buildingsync.net/v2.0-legacy)
+    - [Documentation](documentation/v2.0-legacy)
     - [XML Schema][xsd-2.0-legacy] 
     
 ##### Deprecated Versions
