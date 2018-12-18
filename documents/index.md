@@ -4,7 +4,7 @@ title: Documents
 ---
 
 The first three documents (Data Dictionary, Geometry Reference Sheet) 
-comprise BuildingSync®, and the fourth (Implementation Guide) is a 
+comprise BuildingSync<sup>®</sup>, and the fourth (Implementation Guide) is a 
 comprehensive guide to using it and implementing it with energy auditing 
 software.
 
