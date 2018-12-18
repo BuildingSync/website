@@ -1,12 +1,12 @@
 # Jekyll configuration
-gems:
+config:
   - jekyll-redirect-from
 whitelist:
   - jekyll-redirect-from
 markdown: kramdown
 sass:
   style: compressed
-exclude: [vendor]
+exclude: [vendor,gems]
 
 # Site settings
 title: 'BuildingSync'

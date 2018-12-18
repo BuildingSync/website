@@ -3,7 +3,7 @@ layout: page
 title: Collaborators
 ---
 
-The following entities collaborated in the BuildingSync® development working group:
+The following entities collaborated in the BuildingSync<sup>®</sup> development working group:
 
 - Industry collaborators
     - [ActioNet](www.actionet.com)
