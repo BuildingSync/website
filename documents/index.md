@@ -3,23 +3,23 @@ layout: page
 title: Documents
 ---
 
-The first three documents (Data Dictionary, Geometry Reference Sheet) 
-comprise BuildingSync<sup>®</sup>, and the fourth (Implementation Guide) is a 
-comprehensive guide to using it and implementing it with energy auditing 
-software.
+### Documents
 
-#### [Data Dictionary](data-dictionary)
-The [data field "dictionary"](data-dictionary) includes field names, 
-definitions, units, and other attributes for the enumerated fields.
-The data dictionary is aligned with BEDES, but includes only
-the subset of data fields that are relevant for energy audits. This page 
-can be referenced to help standardize the terminology used in energy 
-audits, but it does not provide a structure that allows data to be 
-exchanged across different applications.
+Each release of the schema includes several supporting documents, the Schema, a Data Dictionary, List of Measures. More information regarding each of the supporting documents is described below and the various versions of schemas are found [here](../schema).
 
-#### [Measures](measures)
-The list of [Measures](measures) defined in the BuildingSync Schema 
+#### [Schema](../schema)
+The BuildingSync schema can be used to create and validate XML files. There have been multiple releases of the schema and they can be found [here](../schema).
+
+#### Data Dictionary
+The data field "dictionary" includes field names, definitions, units, and other attributes for the enumerated fields. The data dictionary is aligned with BEDES, but includes only the subset of data fields that are relevant for energy audits. This page can be referenced to help standardize the terminology used in energy audits, but it does not provide a structure that allows data to be exchanged across different applications.
+
+#### List of Measures
+The list of measures defined in the BuildingSync Schema 
 contain a TechnologyCategory and a list of valid enumerations. 
+
+### Other Supporting Documents
+
+There are several supporting documents that are independent of the version of the schema. The supporting documents include Example Files, a Geometry Reference Sheet, and an Implementation Guide. More information can be found below.
 
 #### [Example Files](https://github.com/BuildingSync/schema/tree/develop/examples)
 These [example files](https://github.com/BuildingSync/schema/tree/develop/examples) 
@@ -39,7 +39,5 @@ BuildingSync schema. The Guide also provides context for BuildingSync
 and discusses how it has been developed in close coordination with 
 the energy auditing industry.
 
-#### [Schema](schema)
-The BuildingSync schema can be used to create and validate XML files.
 
 
