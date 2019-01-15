@@ -7,8 +7,6 @@ title: Schema Documentation
 
 BuildingSync<sup>®</sup> reset the numbering of the schema in 2016. If the shema version in use was published before 2016, then it is recommended to update to a more recent version (even though the version number may be lower than the version currently in use). The current release of BuildingSync is Version 0.3. 
 
-
-
 - Latest (contains latest changes that may not yet be released, use with caution)
     - Data Dictionary - Not available until release.
     - Documentation - Not available until release.

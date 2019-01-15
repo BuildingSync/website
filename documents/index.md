@@ -3,8 +3,6 @@ layout: page
 title: Documents
 ---
 
-### Documents
-
 Each release of the schema includes several supporting documents, the Schema, a Data Dictionary, List of Measures. More information regarding each of the supporting documents is described below and the various versions of schemas are found [here](../schema).
 
 #### [Schema](../schema)
