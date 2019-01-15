@@ -1,6 +1,6 @@
 ---
 layout: page-wide
-title: Measures
+title: Data Dictionary
 ---
 
 <table id="attribute-table" class="display" cellspacing="0" width="100%">
@@ -12,8 +12,8 @@ title: Measures
     </tr>
     </thead>
     <tbody>
-    {% for member in site.data.enumerations %}
-        {% if member.name == 'MeasureName' %}
+    {% for member in site.data.v03.enumerations %}
+        {% if member.name != 'MeasureName' %}
             <tr>
                 {% if member.sub_name == nil %}
                     <td>{{ member.name }}</td>

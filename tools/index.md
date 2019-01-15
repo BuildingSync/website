@@ -13,7 +13,7 @@ The following tools will help you adopt the BuildingSync<sup>®</sup> schema.
 
 Currently, there are two methods for file validation: 
 
-1. Download the most recent version of the [schema](../documents/schema) and use a tool an XML authoring tool to validate the XML instances. This method is preferred for developers who are actively working on creating BuildingSync XML instances which are valid.
+1. Download the most recent version of the [schema](../schema) and use a tool an XML authoring tool to validate the XML instances. This method is preferred for developers who are actively working on creating BuildingSync XML instances which are valid.
 1. There is an option to add a valid BuildingSync XML to the schema's continuous integration (CI) system. This will allow for the file to be tested during every schema change/pull request to ensure backward compatibility and validity. To add a BuildingSync XML instance to the CI, follow these steps:
 	1. If you do not have a Github account, then sign up for one on [Github](https://github.com)
 	1. Sign into Github and navigate to [BuildingSync Schema's Github page](https://github.com/buildingsync/schema)
