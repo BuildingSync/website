@@ -1,0 +1,32 @@
+---
+layout: page-wide
+title: Measures - Version 0.2
+---
+
+<table id="attribute-table" class="display" cellspacing="0" width="100%">
+    <thead>
+    <tr>
+        <th>Technology Category</th>
+        <th>Measure Names</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for member in site.data.v02.enumerations %}
+        {% if member.name == 'MeasureName' %}
+            <tr>
+                <!--{% if member.sub_name == nil %}-->
+                    <!--<td>{{ member.name }}</td>-->
+                <!--{% else %}-->
+                    <!--<td>{{ member.name }} - {{member.sub_name}}</td>-->
+                <!--{% endif %}-->
+
+                <td>{{ member.documentation }}</td>
+                <td>{{ member.enumerations_html }}</td>
+            </tr>
+        {% endif %}
+    {% endfor %}
+    </tbody>
+</table>
+
+
+
