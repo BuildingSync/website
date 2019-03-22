@@ -41,6 +41,8 @@ the energy auditing industry.
 
 [Kelsey, Jim. 2018. “Developing ASHRAE’s First Standard for Commercial Energy Audits (Or; How I Spent My Summer Vacations).” In 2018 ACEEE Summer Study on Energy Efficiency in Buildings, 1–14. Pacific Grove, CA.](Kelsey-ACEEE-Std211.pdf)
 
+[Kelsey, Jim. 2018. “An XML-Ent Match Made in Energy Efficiency: BuildingSync and Energy Audits - KW Engineering.”](http://www.kw-engineering.com/buildingsync-energy-audits-benefits/)
+
 [Taylor, Cody, Marc Costa, Nicholas Long, and Jayson Antonoff. 2016. “A National Framework for Energy Audit Ordinances.” In 2016 ACEEE Summer Study on Energy Efficiency in Buildings, 1–12.](Taylor-ACEEE-Ordinances.pdf)
 
 ASHRAE. 2018. “BSR/ASHRAE/ACCA Standard Standard 211-2018.” Atlanta, GA.
@@ -52,7 +54,3 @@ ASHRAE. 2018. “BSR/ASHRAE/ACCA Standard Standard 211-2018.” Atlanta, GA.
 [Cochran, Erica, and Alon Abramson. 2016. “Broadening Use of DOE BTO Tools in the SMSCB Market Report.”](http://cbei.psu.edu/wp-content/uploads/2016/07/Broadening-Use-of-DOE-BTO-Tools-in-the-SMSCB-Market.pdf)
 
 [Eley, Charles. 2016. “Standardizing Energy Modeling Output.” In ASHRAE and IBPSA-USA SimBuild 2016, 365–71. Salt Lake City, UT.](Eley-IPBSA-StandardizeOutputs.pdf)
-
-#### Earlier
-
-
