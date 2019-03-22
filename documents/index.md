@@ -30,7 +30,7 @@ illustrates how most of the simplified geometric terms (shapes, side names, vert
 The [Implementation Guide](BuildingSync%20v1.0-legacy%20Implementation%20Guide.pdf) is a comprehensive guide illustrating the process needed to adopt the BuildingSync schema. The Guide also provides context for BuildingSync and discusses how it has been developed in close coordination with 
 the energy auditing industry.
 
-### Publications
+### Publications and Presentations
 
 #### 2018
 
@@ -39,13 +39,19 @@ the energy auditing industry.
 
 [DeGraw, Jason, Kristin Field-Macumber, Nicholas Long, and Supriya Goel. 2018. “BuildingSync® in Action : Example Implementations.” In 2018 ACEEE Summer Study on Energy Efficiency in Buildings, 1–12. Pacific Grove, CA.](DeGraw-ACEEE-BuildingSync-in-Action.pdf)
 
+[Field-Macumber, Kristin, and Nicholas Long. 2018. “BuildingSync: IBPSA-USA.”](https://d3k8h4uqzt88x5.cloudfront.net/sites/default/files/u33/BuildingSync_NREL_20180510_1.pdf)
+
 [Kelsey, Jim. 2018. “Developing ASHRAE’s First Standard for Commercial Energy Audits (Or; How I Spent My Summer Vacations).” In 2018 ACEEE Summer Study on Energy Efficiency in Buildings, 1–14. Pacific Grove, CA.](Kelsey-ACEEE-Std211.pdf)
 
 [Kelsey, Jim. 2018. “An XML-Ent Match Made in Energy Efficiency: BuildingSync and Energy Audits - KW Engineering.”](http://www.kw-engineering.com/buildingsync-energy-audits-benefits/)
 
 [Taylor, Cody, Marc Costa, Nicholas Long, and Jayson Antonoff. 2016. “A National Framework for Energy Audit Ordinances.” In 2016 ACEEE Summer Study on Energy Efficiency in Buildings, 1–12.](Taylor-ACEEE-Ordinances.pdf)
 
-ASHRAE. 2018. “BSR/ASHRAE/ACCA Standard Standard 211-2018.” Atlanta, GA.
+[ASHRAE. 2018. “BSR/ASHRAE/ACCA Standard Standard 211-2018.” Atlanta, GA.](https://www.ashrae.org/technical-resources/bookstore/standards-180-and-211)
+
+#### 2017
+
+[Bergmann, Harry. 2017. “DOE Building Energy Data Tools.”](http://nesea.org/sites/default/files/session-docs/1705_data_driven_bergman.pdf)
 
 #### 2016
 
