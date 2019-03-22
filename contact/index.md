@@ -5,7 +5,7 @@ title: Contact
 
 ## General Contact Information 
 
-Please contact us through info@buildingsync.net. Also, you can follow us on [GitHub](https://github.com/buildingsync/schema) as we make proposals, changes, and new releases.
+Please direct any questions to [BuildingSync@ee.doe.gov](mailto:BuildingSync@ee.doe.gov). Also, you can follow us on [GitHub](https://github.com/buildingsync/schema) as we make proposals, changes, and new releases.
 
 ## Mailing List
 
