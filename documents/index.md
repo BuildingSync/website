@@ -39,8 +39,6 @@ the energy auditing industry.
 
 [DeGraw, Jason, Kristin Field-Macumber, Nicholas Long, and Supriya Goel. 2018. “BuildingSync® in Action : Example Implementations.” In 2018 ACEEE Summer Study on Energy Efficiency in Buildings, 1–12. Pacific Grove, CA.](DeGraw-ACEEE-BuildingSync-in-Action.pdf)
 
-[Field-Macumber, Kristin, and Nicholas Long. 2018. “BuildingSync: IBPSA-USA.”](https://d3k8h4uqzt88x5.cloudfront.net/sites/default/files/u33/BuildingSync_NREL_20180510_1.pdf)
-
 [Kelsey, Jim. 2018. “Developing ASHRAE’s First Standard for Commercial Energy Audits (Or; How I Spent My Summer Vacations).” In 2018 ACEEE Summer Study on Energy Efficiency in Buildings, 1–14. Pacific Grove, CA.](Kelsey-ACEEE-Std211.pdf)
 
 [Kelsey, Jim. 2018. “An XML-Ent Match Made in Energy Efficiency: BuildingSync and Energy Audits - KW Engineering.”](http://www.kw-engineering.com/buildingsync-energy-audits-benefits/)
