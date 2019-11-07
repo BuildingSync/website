@@ -45,26 +45,26 @@ Clone the [BuildingSync/schema](https://github.com/BuildingSync/schema) reposito
 - 'examples/BuildingSync Website Invalid Schema.xml'
 - 'examples/BuildingSync Website Valid Schema.xml'
 
-|![open_files](resources/img/open_files.png)|
-|:---:|
+![open_files](resources/img/open_files.png){:class="img-responsive"}
 
 #### Validation Against XSD
 Using the OxygenXML Validate button, the Valid Schema shows a valid result against the XSD:
-|![valid](resources/img/valid_xsd.png)|
-|:---:|
+![valid](resources/img/valid_xsd.png)
 
 For the invalid schema, we can see all of the errors found, with descriptions:
 
-| ![invalid_xsd1](resources/img/invalid_xsd1.png) | ![invalid_xsd2](resources/img/invalid_xsd2.png) |
-|:---:|:---:|
+![invalid_xsd1](resources/img/invalid_xsd1.png){:class="img-responsive"}
+
+![invalid_xsd2](resources/img/invalid_xsd2.png){:class="img-responsive"}
 
 #### Validation Against Schematron
 Download the Schematron document [Audit Template Example](https://raw.githubusercontent.com/BuildingSync/assetscore-schematron-docs/master/docs/Audit_Template/New_York_City_Energy_Efficiency_Report.xml) and save to a known local path.
 
 In OxygenXML, choose the validate drop down, and select validate with:
-| ![sch1](resources/img/sch1.png) | ![sch2](resources/img/sch2.png) |
-|:---:|:---:|
+![sch1](resources/img/sch1.png){:class="img-responsive"}
+
+![sch2](resources/img/sch2.png){:class="img-responsive"}
 
 The Schematron validator will provide very verbose errors specific to the use case.  Note that schematron will generate errors on both the 'BuildingSync Website Valid Schema.xml' and 'BuildingSync Website Invalid Schema.xml' documents, because while these are valid according to the XSD, they do not conform to the use case requirements:
 
-![sch3](resources/img/sch3.png)
+![sch3](resources/img/sch3.png){:class="img-responsive"}
