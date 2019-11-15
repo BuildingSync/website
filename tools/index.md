@@ -24,7 +24,7 @@ For validation of BuildingSync XML files, the XML file undergoes a two step vali
 1. Validation using [Schematron](http://schematron.com/)
 	- Currently (2019-11-06), there is only one example Schematron doc for the [Building Energy Asset Score](https://buildingenergyscore.energy.gov/) use case, which can be found [here](https://github.com/BuildingSync/assetscore-schematron-docs/blob/master/docs/Audit_Template/New_York_City_Energy_Efficiency_Report.xml). XML authoring tools can also be used to validate against Schematron docs.
 	- As opposed to an XSD, a Schematron document can be used to validate:
-		- Elemental requirements on a use case basis. For example, requirements for ASHRAE Levels 1, 2, and 3 are different. Using the same base XSD, with three different Schematron documents (one for each ASHRAE level), validates whether the document expresses all of the requirements to achieve each of the ASHRAE Leve 1, 2, and 3 use cases.
+		- Elemental requirements on a use case basis. For example, requirements for ASHRAE Levels 1, 2, and 3 are different. Using the same base XSD, with three different Schematron documents (one for each ASHRAE level), validates whether the document expresses all of the requirements to achieve each of the ASHRAE Level 1, 2, and 3 use cases.
 		- Constraints and requirements based on conditionals. For example, if an element is specified with a particular value, the applicable enumerations of another element may change.
 		- other logical statements.
 
