@@ -1,0 +1,33 @@
+---
+layout: page-wide
+title: Data Dictionary - Version 2.0
+---
+
+<table id="attribute-table" class="display" cellspacing="0" width="100%">
+    <thead>
+    <tr>
+        <th>Term</th>
+        <th>Description</th>
+        <th>Enumerations</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for member in site.data.v20.enumerations %}
+        {% if member.name != 'MeasureName' %}
+            <tr>
+                {% if member.sub_name == nil %}
+                    <td>{{ member.name }}</td>
+                {% else %}
+                    <td>{{ member.name }} - {{member.sub_name}}</td>
+                {% endif %}
+
+                <td>{{ member.documentation }}</td>
+                <td>{{ member.enumerations_html }}</td>
+            </tr>
+        {% endif %}
+    {% endfor %}
+    </tbody>
+</table>
+
+
+
