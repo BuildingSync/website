@@ -1895,7 +1895,8 @@ $baseurl: '{{ site.baseurl }}/images';
 }
 
 .col img {
-	width: 2em;
+	width: 100%;
+	display:block;
 }
 
 a.image {
