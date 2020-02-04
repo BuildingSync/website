@@ -1890,15 +1890,31 @@ $baseurl: '{{ site.baseurl }}/images';
 
 .col {
   flex: 1;
-  padding: 16px;
+  padding: 0.5em;
   align-self: center;
 }
 
 .col img {
-	width: 25em;
-
+	width: 2em;
 }
 
 a.image {
 	text-decoration: none;
+}
+
+@media screen and (max-width: 1000px) {
+	.row {
+	 display: block;
+	}
+	.col {
+		width: 100%;
+	}
+}
+
+.row.is-mobile {
+	display: block;
+	background: none;
+}
+.col.is-mobile {
+	width: 100%;
 }
