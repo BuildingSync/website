@@ -1903,7 +1903,7 @@ a.image {
 	text-decoration: none;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 600px) {
 	.row {
 	 display: block;
 	}
@@ -1914,6 +1914,7 @@ a.image {
 
 .row.is-mobile {
 	display: block;
+	width:100%;
 	background: none;
 }
 .col.is-mobile {
