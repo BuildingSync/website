@@ -1881,3 +1881,24 @@ $baseurl: '{{ site.baseurl }}/images';
 #attribute-table {
     font-size: 80%;
 }
+
+/* Custom CSS for current_adopters page */
+.row {	
+  display: flex;
+  width: 100%;
+}
+
+.col {
+  flex: 1;
+  padding: 16px;
+  align-self: center;
+}
+
+.col img {
+	width: 25em;
+
+}
+
+a.image {
+	text-decoration: none;
+}
