@@ -12,7 +12,7 @@ BuildingSync<sup>®</sup> reset the numbering of the schema in 2016. If the sche
     - Documentation - Not available until release.
     - Measures - Not available until release.
     - [XML Schema][xsd-latest] 
-- **Version 2.1.0 - July 31, 2020**
+- **Version 2.1.0 - July 30, 2020**
     - [Data Dictionary](v2.1.0/datadictionary) (Download as [XLSX](v2.1.0/datadictionary/DataDictionary.xlsx))
     - [Documentation](v2.1.0/documentation)
     - [Measures](v2.1.0/measures)
