@@ -32,6 +32,12 @@ the energy auditing industry.
 
 ### Publications and Presentations
 
+#### 2020
+[Mosiman, Cory, Nicholas Lee Long, Tobias Maile, Katherine Fleming and Christopher CaraDonna. 2020. "High-Level Model Articulation with BuildingSync and OpenStudio." In ASHRAE and IBPSA-USA SimBuild 2020 Building Performance Analysis Conference, Virtual Conference.](Mosiman-BPAC-2020.pdf)
+
+Long, Nicholas, Katherine Fleming, Cory Mosiman, Harry Bergmann, Mark Borkum, Ted Summer, Christopher Naismith. "BuildingSync Webinar." September 11, 2020.[Webinar Presentation](https://nrel-seed.s3.us-east-1.amazonaws.com/resources/2020-09-11%20-%20BuildingSync%20Update%20Presentation.pdf). [Webinar Recording](https://nrel-seed.s3.us-east-1.amazonaws.com/resources/2020-09-11%20-%20BuildingSync%20Update%20Webinar.mp4).
+
+
 #### 2018
 
 [Hooper, Barry, Tianzhen Hong, Daniel Macumber, Sang Hoon Lee, Yixing Chen, Nicholas Long, Edwin Lee, et al. 2018. “The BayREN Integrated Commercial Retrofits (BRICR) Project : An Introduction and Preliminary Results Overview of BRICR Software Tools and Workflow.” In 2018 ACEEE Summer Study on Energy Efficiency in Buildings, 1–12. Pacific Grove, CA.](Hooper-ACEEE-BRICR.pdf) 
