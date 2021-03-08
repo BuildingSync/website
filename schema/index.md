@@ -11,7 +11,12 @@ BuildingSync<sup>®</sup> reset the numbering of the schema in 2016. If the sche
     - Data Dictionary - Not available until release.
     - Documentation - Not available until release.
     - Measures - Not available until release.
-    - [XML Schema][xsd-latest] 
+    - [XML Schema][xsd-latest]
+- **Version 2.3.0 - March 8, 2021**
+    - [Data Dictionary](v2.3.0/datadictionary) (Download as [XLSX](v2.3.0/datadictionary/DataDictionary.xlsx))
+    - [Documentation](v2.3.0/documentation)
+    - [Measures](v2.3.0/measures)
+    - [XML Schema][xsd-2.3.0]
 - **Version 2.2.0 - September 25, 2020**
     - [Data Dictionary](v2.2.0/datadictionary) (Download as [XLSX](v2.2.0/datadictionary/DataDictionary.xlsx))
     - [Documentation](v2.2.0/documentation)
@@ -58,6 +63,9 @@ should be updated to the latest version.
 
 [xsd-latest]: https://schema.buildingsync.net/latest/develop/BuildingSync.xsd
 [json-latest]: https://schema.buildingsync.net/latest/develop/BuildingSync.json
+
+[xsd-2.3.0]: https://github.com/BuildingSync/schema/releases/download/v2.3.0/BuildingSync.xsd
+[json-2.3.0]: https://github.com/BuildingSync/schema/releases/download/v2.3.0/BuildingSync.json
 
 [xsd-2.2.0]: https://github.com/BuildingSync/schema/releases/download/v2.2.0/BuildingSync.xsd
 
