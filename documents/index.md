@@ -8,8 +8,8 @@ Each release of the schema includes several supporting documents, the Schema, a 
 #### [Schema](../schema)
 The BuildingSync schema can be used to create and validate XML files. There have been multiple releases of the schema and they can be found [here](../schema).
 
-#### BuildingSync On-boarding Document
-The BuildingSync team has created a document to help new users get started with BuildingSync. The focus of this document is to guide the user in the development of a clear use case for BuildingSync, creating a Schematon instance, and uploading to the BuildingSync Selection Tool. The document can be downloaded [here](BuildingSync-on-boarding.pdf)
+#### [BuildingSync On-boarding Document](BuildingSync-on-boarding.pdf)
+The BuildingSync team has created a document to help new users get started with BuildingSync. The focus of this document is to guide the user in the development of a clear use case for BuildingSync, creating a Schematon instance, and uploading to the BuildingSync Selection Tool. The document can be downloaded [here](BuildingSync-on-boarding.pdf).
 
 #### Data Dictionary
 The data field "dictionary" includes field names, definitions, units, and other attributes for the enumerated fields. The data dictionary is aligned with BEDES, but includes only the subset of data fields that are relevant for energy audits. This page can be referenced to help standardize the terminology used in energy audits, but it does not provide a structure that allows data to be exchanged across different applications.
