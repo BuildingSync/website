@@ -17,7 +17,8 @@ BuildingSync<sup>®</sup> reset the numbering of the schema in 2016. If the sche
     - [Documentation](v2.3.0/documentation)
     - [Measures](v2.3.0/measures)
     - [XML Schema][xsd-2.3.0]
-- **Version 2.2.0 - September 25, 2020**
+    - [JSON Schema (Unsupported)][json-2.3.0]
+- Version 2.2.0 - September 25, 2020
     - [Data Dictionary](v2.2.0/datadictionary) (Download as [XLSX](v2.2.0/datadictionary/DataDictionary.xlsx))
     - [Documentation](v2.2.0/documentation)
     - [Measures](v2.2.0/measures)
