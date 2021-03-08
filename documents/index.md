@@ -29,9 +29,8 @@ These [example files](https://github.com/BuildingSync/schema/tree/develop/exampl
 The BuildingSync [Geometry Reference Sheet](https://github.com/BuildingSync/schema/blob/develop/docs/Geometry%20Reference.pdf) 
 illustrates how most of the simplified geometric terms (shapes, side names, vertices, orientations) are defined in the context of BuildingSync.
 
-#### [Implementation Guide](BuildingSync%20v1.0-legacy%20Implementation%20Guide.pdf)
-The [Implementation Guide](BuildingSync%20v1.0-legacy%20Implementation%20Guide.pdf) is a comprehensive guide illustrating the process needed to adopt the BuildingSync schema. The Guide also provides context for BuildingSync and discusses how it has been developed in close coordination with 
-the energy auditing industry.
+#### Implementation Guide
+The [Implementation Guide](BuildingSync%20v1.0-legacy%20Implementation%20Guide.pdf) is a legacy document that may still be useful for understanding the basics of BuildingSync. However, it is important to note that many of the elements have changed names, especially at the higher level of the document.
 
 ### Publications and Presentations
 
@@ -40,11 +39,9 @@ the energy auditing industry.
 
 Long, Nicholas, Katherine Fleming, Cory Mosiman, Harry Bergmann, Mark Borkum, Ted Summer, Christopher Naismith. "BuildingSync Webinar." September 11, 2020.[Webinar Presentation](https://nrel-seed.s3.us-east-1.amazonaws.com/resources/2020-09-11%20-%20BuildingSync%20Update%20Presentation.pdf). [Webinar Recording](https://nrel-seed.s3.us-east-1.amazonaws.com/resources/2020-09-11%20-%20BuildingSync%20Update%20Webinar.mp4).
 
-
 #### 2018
 
 [Hooper, Barry, Tianzhen Hong, Daniel Macumber, Sang Hoon Lee, Yixing Chen, Nicholas Long, Edwin Lee, et al. 2018. “The BayREN Integrated Commercial Retrofits (BRICR) Project : An Introduction and Preliminary Results Overview of BRICR Software Tools and Workflow.” In 2018 ACEEE Summer Study on Energy Efficiency in Buildings, 1–12. Pacific Grove, CA.](Hooper-ACEEE-BRICR.pdf) 
-
 
 [DeGraw, Jason, Kristin Field-Macumber, Nicholas Long, and Supriya Goel. 2018. “BuildingSync® in Action : Example Implementations.” In 2018 ACEEE Summer Study on Energy Efficiency in Buildings, 1–12. Pacific Grove, CA.](DeGraw-ACEEE-BuildingSync-in-Action.pdf)
 
